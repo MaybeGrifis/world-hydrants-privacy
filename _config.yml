@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+theme: null
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+
+exclude:
+  - README.md
+
